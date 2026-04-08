@@ -1,0 +1,1 @@
+Projeto acadêmico desenvolvido em grupo para simular um site institucional de concessionária. Atuei diretamente na estilização com CSS e na implementação de funcionalidades com JavaScript, incluindo manipulação de DOM e interações dinâmicas no catálogo de veículos. O projeto foi desenvolvido com HTML, CSS e JavaScript, com foco em usabilidade e organização da interface.
